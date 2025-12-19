@@ -15,8 +15,9 @@
 ---
 
 ### 🌱 Currently Learning
-- Python automation for SEO  
-- Data-driven decision making  
+- Python automation and scripting  
+- Data-driven analysis and decision making  
+- Learning fundamentals of AI and machine learning  
 
 ---
 
