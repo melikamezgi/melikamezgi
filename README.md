@@ -1,4 +1,25 @@
 ## Hi there 👋
+## Hi 👋 I'm Melika
+
+🎓 Computer Engineering student  
+🐍 Python Developer | 🔍 SEO-focused solutions  
+📊 Interested in automation, data analysis, and technical SEO  
+
+---
+
+### 🧰 Skills & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-0A66C2?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🌱 Currently Learning
+- Python automation for SEO  
+- Data-driven decision making  
+
+---
+
 
 <!--
 **melikamezgi/melikamezgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
