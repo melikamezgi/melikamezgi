@@ -20,6 +20,12 @@
 
 ---
 
+💬 Let's connect!  
+Check out my projects on [GitHub](https://github.com/melikamezgi)  
+Reach out on [LinkedIn](https://www.linkedin.com/in/melikamezginezhad/)  
+Thanks for stopping by! 😊
+
+
 
 <!--
 **melikamezgi/melikamezgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
