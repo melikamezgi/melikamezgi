@@ -1,4 +1,3 @@
-## Hi there 👋
 ## Hi 👋 I'm Melika
 
 🎓 Computer Engineering student  
